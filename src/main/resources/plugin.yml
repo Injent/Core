@@ -1,0 +1,10 @@
+name: Core
+version: '${project.version}'
+main: me.injent.core.Main
+api-version: 1.17
+prefix: Core
+authors: [ Injent ]
+commands:
+  persona:
+    description: Edit personality
+    usage: /persona [quitMsg|joinMsg]

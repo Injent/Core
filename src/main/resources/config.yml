@@ -1,0 +1,14 @@
+teams:
+  0:
+    name: "Team 1"
+    tag: '%'
+    color: RED
+    players:
+      - Injent
+      - _m1zu_
+      - ItzLIK
+options:
+  s: ''
+lang:
+  edit_join_msg: 'Сообщение входа'
+  edit_quit_msg: 'Сообщение выхода'
